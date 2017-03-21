@@ -1,0 +1,32 @@
+{
+  "name": "react-server-render-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-server": "babel-node index.js --presets es2015,react"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepikakoduri/React-ServerRender-Example.git"
+  },
+  "dependencies": {
+    "axios": "^0.15.3",
+    "express": "^4.15.2",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "webpack": "^2.2.1"
+  },
+  "author": "deepika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepikakoduri/React-ServerRender-Example/issues"
+  },
+  "homepage": "https://github.com/deepikakoduri/React-ServerRender-Example#readme"
+}
